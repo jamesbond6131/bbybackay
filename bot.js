@@ -69,4 +69,4 @@ client.on('messageCreate', async (message) => {
   }
 });
 
-client.login('MTE3OTg2NzI4MjQyMDI4NTQ0MA.G0RHgB.oa1az6I5nlzPwHLtC9uCgidkBusLGSu_l9PdCE'); // Replace with your bot's token
+client.login('MTE3OTg2NzI4MjQyMDI4NTQ0MA.GuZ3fr.vJD6WL4fapvM7JDs0UNwwjK_GHpkzFoBV-WG80'); // Replace with your bot's token
